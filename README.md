@@ -1,4 +1,4 @@
-# LabES-Jekyll
+# LabES - Jekyll
 
 **projeto para site Lab ES**
 
